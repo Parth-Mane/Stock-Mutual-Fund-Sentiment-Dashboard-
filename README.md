@@ -15,6 +15,7 @@ Insider trading alerts with transaction details
 
 Real-time watchlist with custom price alert notifications
 
+
 2.Sentiment Analysis
 
 Reddit (WallStreetBets) — no API key needed, uses public JSON
@@ -28,6 +29,7 @@ Naive Bayes (TF-IDF) ML classifier trained on financial headlines
 Bullish/Bearish sentiment bars with confidence scores
 
 Filterable news popup with keyword search
+
 
 3.Mutual Fund Analysis
 
