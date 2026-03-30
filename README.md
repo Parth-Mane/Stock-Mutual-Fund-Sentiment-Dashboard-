@@ -1,7 +1,7 @@
 # Stock-Mutual-Fund-Sentiment-Dashboard
 A Python-based desktop application that combines real-time market data, ML sentiment analysis, and technical indicators to help retail investors make informed decisions on stocks and Indian mutual funds.
 
-*Features
+#Features
 1.Stock Analysis
 Live stock price, trend, RSI, MACD with interactive candlestick/line charts
 Hover tooltips showing OHLCV, RSI, MACD values on chart
